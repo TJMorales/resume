@@ -1,2 +1,2 @@
 # resume
-resume website with active slides and social media info
+resume website with bootstrap carousel, active slides and social media info
